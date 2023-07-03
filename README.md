@@ -18,6 +18,7 @@
 
 
 # POWERBI DASHBOARD
+https://github.com/khanaalmeen/Financial-Business-Operations/blob/main/Dashboard/Financial%20Report.pbix
 
 
 
