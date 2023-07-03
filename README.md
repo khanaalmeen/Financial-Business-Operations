@@ -11,6 +11,10 @@
 ### The goal is to enhance ABC's financial performance and overall business success.
 
 
+# DATASET
+https://github.com/khanaalmeen/Financial-Business-Operations/blob/main/Data/Financial%20Sales.xlsx
+
+
 
 # TOOLS USED
 ###  Microsoft Excel for data cleaning and manipulation, and PowerBI for data visualization and insights.
