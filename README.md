@@ -22,7 +22,7 @@ https://github.com/khanaalmeen/Financial-Business-Operations/blob/main/Data/Fina
 
 
 # POWERBI DASHBOARD
-https://github.com/khanaalmeen/Financial-Business-Operations/blob/main/Dashboard/Financial%20Report.pbix
+https://www.novypro.com/project/financial-sales-dashboard-power-bi
 
 
 
