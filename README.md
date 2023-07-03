@@ -1,6 +1,9 @@
 # Financial-Business-Operations Analysis and Visualisation
 
-## OBJECTIVE
+![image](https://github.com/khanaalmeen/Financial-Business-Operations/assets/106391555/a28b292b-fa86-41f7-b441-199caa603d5a)
+
+
+# OBJECTIVE
 ### To assess Company ABC's financial and business operations and provide recommendations to improve its financial bottom line.
 ### The aim is to increase profitability, maximize stockholder equity, and generate higher returns for investors. 
 ### The project focuses on analyzing data, conducting financial modeling, and evaluating business strategies to identify areas for improvement.
@@ -9,7 +12,7 @@
 
 
 
-## TOOLS USED
+# TOOLS USED
 ###  Microsoft Excel for data cleaning and manipulation, and PowerBI for data visualization and insights.
 
 
