@@ -29,6 +29,8 @@ https://www.novypro.com/project/financial-sales-dashboard-power-bi
 
 # FINANCIAL BUSINESS OPERATIONS DASHBOARD
 
-![image](https://github.com/khanaalmeen/Financial-Business-Operations/assets/106391555/d7e93a54-a365-4e59-bfdd-113cef32dc5d)
-![image](https://github.com/khanaalmeen/Financial-Business-Operations/assets/106391555/0ade0d99-dc54-4c0d-8a3c-6e265bc867e0)
+![image](https://github.com/khanaalmeen/Financial-Business-Operations/assets/106391555/27f3e405-4597-4a67-96bb-5d60e6421f57)
+![image](https://github.com/khanaalmeen/Financial-Business-Operations/assets/106391555/c165a7c9-c7d7-40d8-ae9e-1a27ec7d2718)
+
+
 
